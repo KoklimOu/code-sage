@@ -110,11 +110,9 @@ Now, when you click the "Next" button:
 - `handleClick` calls `setIndex(index + 1)`.
 - `setIndex` updates the state.
 - React re-renders the `Gallery` component with the updated `index`.
-- The new sculpture is displayed based on the updated `index`.
-
+- The new sculpture is displayed based on the updated `index`. 
 This makes the component dynamic and interactive, correctly updating the displayed sculpture with each button click.
-
-Sure, here’s a concise summary of `useEffect`, how it works, and when it is triggered:
+----
 
 ### What is `useEffect`?
 
